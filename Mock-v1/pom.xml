@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Apigee</groupId>
 	<artifactId>Mock-v1</artifactId>
-	<version>1.0</version>
+	<version>1.2</version>
 	<name>Mock-v1</name>
 	<packaging>pom</packaging>
 </project>
