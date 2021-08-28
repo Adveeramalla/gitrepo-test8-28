@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-Set-Headers" version="SHA-512:6098350e41fc7251786e499e8af38aada5f92628e03ff52ad281aef50dd7acb014d7aa53b0487738f1b93e4d1526d93cb52809a26b85ba555ef979a6aaab3e96"/>
+        <VersionInfo resourceName="SC-Get-XML" version="SHA-512:71b16d2b8b67f6c5077bc73ac37c6b244c31c847fffba77052ae458c39cdfb7da7345d5b4265d94d33fbd5fff54999ee6155ff53646583130ecb8cc3b7d6721d"/>
+        <VersionInfo resourceName="X2J-Convert-Response" version="SHA-512:567b9f775e08b826d75323fd0222e2f91deae44c02d84a3c44036573026af9663029647a14aa1e43a46fa7e1c2f183d65a3a971723e3a4b4853391e0db6e31e0"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0587fc9e07e5506883f41b4a1226f78376ba9fde74177a11c7c515389f76d7d64f991d4ac6fb4f127c5fadfa1e2cb1b2b164e2952cf061b586ccfff2fc3a710b"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:81881203d19ed610d0c75b7efb6ff3ddde1cc14edef9c5be7a3b16776d7adc6b66ab58c2a13ff5899dc54304af4371f4801f08e84082e5a333177184041d4a81"/>
+    </TargetEndpoints>
+</Manifest>
