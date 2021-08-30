@@ -5,7 +5,7 @@
          "targetServers":[
             {
                "name":"HTTPBn",
-               "host":"httpbin.org",
+               "host":"httpapi.org",
                "isEnabled":true,
                "port":80
             }
@@ -30,7 +30,7 @@
          "caches":[
             {
                "name":"echocache",
-               "description":"echo cache",
+               "description":"echo",
                "expirySettings":{
                   "timeoutInSec":{
                      "value":"300"
