@@ -14,7 +14,7 @@
             {
                "name":"example",
                "hostAliases":[
-                  "example.com"
+                  "example"
                ],
                "isEnabled":true,
                "port":80
