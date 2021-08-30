@@ -5,7 +5,7 @@
          "targetServers":[
             {
                "name":"HTTPBn",
-               "host":"httpapi.org",
+               "host":"exampleapi.org",
                "isEnabled":true,
                "port":80
             }
