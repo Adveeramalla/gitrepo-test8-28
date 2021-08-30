@@ -4,7 +4,7 @@
       "test":{
          "targetServers":[
             {
-               "name":"HTTPBin",
+               "name":"HTTPBn",
                "host":"httpbin.org",
                "isEnabled":true,
                "port":80
