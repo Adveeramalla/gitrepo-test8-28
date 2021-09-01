@@ -29,8 +29,8 @@
          ],
          "caches":[
             {
-               "name":"echocache",
-               "description":"echo",
+               "name":"echecache",
+               "description":"eche",
                "expirySettings":{
                   "timeoutInSec":{
                      "value":"300"
