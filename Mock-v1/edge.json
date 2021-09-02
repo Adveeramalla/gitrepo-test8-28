@@ -29,7 +29,7 @@
          ],
 		 "kvms": [
         {
-          "name": "sample demo KVM4",
+          "name": "testing-phase",
           "entry": [
             {
               "name": "dell",
