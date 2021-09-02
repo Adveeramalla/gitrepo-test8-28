@@ -2,14 +2,14 @@
     {
         "entry": [
             {
-                "name": "deloitte6",
+                "name": "deloitte7",
                 "value": "googleapis.com"
             },
             {
-                "name": "angrus",
+                "name": "angrus7",
                 "value": "stackflow"
             }
         ],
-        "name": "test-kvm6"
+        "name": "test-kvm7"
     }
 ]

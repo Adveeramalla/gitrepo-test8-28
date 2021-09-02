@@ -29,18 +29,18 @@
          ],
 		 "kvms": [
         {
-          "name": "testing-phase",
+          "name": "testing-phase7",
           "entry": [
             {
-              "name": "dell",
+              "name": "testing dell7",
               "value": "googleapi.com"
             },
             {
-              "name": "angotwar",
+              "name": "angotwar7",
               "value": "despados", 
             },
 			{
-              "name": "samplekeypair",
+              "name": "samplekeypair7",
               "value": "article"
             },
           ]
