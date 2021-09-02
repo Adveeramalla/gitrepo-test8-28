@@ -27,6 +27,25 @@
                "resourceType":"KeyStore"
             }
          ],
+		 "kvms": [
+        {
+          "name": "sample demo KVM4",
+          "entry": [
+            {
+              "name": "dell",
+              "value": "googleapi.com"
+            },
+            {
+              "name": "angotwar",
+              "value": "despados", 
+            },
+			{
+              "name": "samplekeypair",
+              "value": "article"
+            },
+          ]
+        }
+      ],
          "caches":[
             {
                "name":"echecache",
