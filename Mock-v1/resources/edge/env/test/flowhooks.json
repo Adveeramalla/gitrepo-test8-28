@@ -2,11 +2,11 @@
 	{
 	    "name":"PreProxyFlowHook",
 	    "continueOnError":"true",
-	    "sharedFlow":"corspreflow"
+	    "sharedFlow":"testing sharedflow 9/2"
 	 },
 	 {
 	    "name":"PreTargetFlowHook",
-	    "continueOnError":"true",
-	    "sharedFlow":"corspreflow"
+	    "continueOnError":"false",
+	    "sharedFlow":"testing sharedflow 9/2"
 	 }
  ]

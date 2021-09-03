@@ -1,7 +1,7 @@
 [
    {
-      "name":"test-extension",
-      "description":"Testing",
+      "name":"test-ext",
+      "description":"Test",
       "packageName":"gcp-stackdriver-logging",
       "version":"1.2.1"
    }
