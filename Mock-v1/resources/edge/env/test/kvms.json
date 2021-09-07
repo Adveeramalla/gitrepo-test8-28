@@ -2,14 +2,14 @@
     {
         "entry": [
             {
-                "name": "deloitte_9-3",
+                "name": "deloitte_9-7",
                 "value": "googleapis.com"
             },
             {
-                "name": "angrus_9-3",
+                "name": "angrus_9-7",
                 "value": "stackflow"
             }
         ],
-        "name": "kvm_9-7-2021"
+        "name": "kvm-entity_9-7"
     }
 ]
