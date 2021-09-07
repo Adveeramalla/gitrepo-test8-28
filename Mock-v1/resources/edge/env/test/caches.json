@@ -1,10 +1,10 @@
 [
   {
-    "name": "quote9-7",
+    "name": "quote9-7-2021",
     "description": "products quote"
   },
   {
-    "name": "user9-7",
+    "name": "user9-7-2021",
     "description": "user metadata cache",
     "diskSizeInMB": 0,
     "distributed": true,
