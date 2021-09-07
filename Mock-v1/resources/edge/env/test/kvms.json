@@ -3,11 +3,11 @@
         "entry": [
             {
                 "name": "deloitte_9-7",
-                "value": "googleapis.com"
+                "value": "deloitte.com"
             },
             {
                 "name": "angrus_9-7",
-                "value": "stackflow"
+                "value": "stackoverflow.com
             }
         ],
         "name": "kvm-entity_9-7-2024"
