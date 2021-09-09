@@ -11,7 +11,7 @@
             }
         ],
 
-        "name": "kvm-entity_9-8"      
+        "name": "Kvm-deploy-test"      
     }, 
 	    {
         "entry": [
@@ -24,6 +24,6 @@
                 "value": "stackoverflow.com"
             }
         ],
-        "name": "KVM-sept11"      
+        "name": "kvm-deploy-test2"      
     }
 ]
