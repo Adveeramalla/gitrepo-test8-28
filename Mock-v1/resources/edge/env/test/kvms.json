@@ -7,13 +7,23 @@
             },
             {
                 "name": "angrus_9-7",
-                "value": "stackoverflow.com
+                "value": "stackoverflow.com"
             }
         ],
 
-        "name": "kvm-entity_9-8"
-=======
-        "name": "kvm-entity-9-7-2025"
-
+        "name": "kvm-entity_9-8"      
+    }, 
+	    {
+        "entry": [
+            {
+                "name": "deloitte_3",
+                "value": "deloitte.com"
+            },
+            {
+                "name": "angrus_3",
+                "value": "stackoverflow.com"
+            }
+        ],
+        "name": "KVM-2025"      
     }
 ]
